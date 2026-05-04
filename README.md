@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarshDhawalia
+- 👋 Hi, I’m @HarsshDhawaliya
 - 👀 I’m interested in Full-Stack Web Development, Software Development Engineering roles.
 - 🌱 I’m currently learning Full Stack Web Development Course from Scaler.
 - 💞️ I’m looking to collaborate on creating world class Websites and Applications.
