@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack Web Development, Software Development Engineering roles.
 - 🌱 I’m currently learning Full Stack Web Development Course from Scaler.
 - 💞️ I’m looking to collaborate on creating world class Websites and Applications.
-- 📫 How to reach me 7008438157, hdhawalia.official@gmail.com, hdhawalia@gmail.com
+- 📫 How to reach me 7008438157, harssh.dhawaliya@gmail.com, hdhawalia@gmail.com
 - ⚡ Fun fact: ... I belong to a non-IT background but enjoy coding and working with computers.
 
 <!---
